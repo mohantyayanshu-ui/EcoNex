@@ -1,0 +1,13 @@
+
+category,item,activity_unit,emission_factor,emission_unit,gas_basis,source,status
+transport,car,vehicle_km,0.111,kg CO2/vehicle_km,CO2,India GHG Program Road Transport Emission Factors 2015 page 9 - small gasoline car under 800cc,historical_estimate
+transport,bus,passenger_km,0.015161,kg CO2/passenger_km,CO2,India GHG Program Road Transport Emission Factors 2015 page 10 - intracity bus,historical_estimate
+transport,motorcycle,vehicle_km,0.0358,kg CO2/vehicle_km,CO2,India GHG Program Road Transport Emission Factors 2015 page 9 - motorcycle under 100cc,historical_estimate
+transport,train,passenger_km,,kg CO2e/passenger_km,CO2e,,pending_verification
+electricity,electricity,kWh/month,,kg CO2e/kWh,CO2e,,pending_verification
+cooling,air_conditioner,kWh/day,,kg CO2e/kWh,CO2e,,pending_verification
+food,vegetarian,meal/day,,kg CO2e/meal,CO2e,,pending_verification
+food,dairy,meal/day,,kg CO2e/meal,CO2e,,pending_verification
+food,meat,meal/day,,kg CO2e/meal,CO2e,,pending_verification
+shopping,clothing,item/month,,kg CO2e/item,CO2e,,pending_verification
+shopping,electronics,item/month,,kg CO2e/item,CO2e,,pending_verification
